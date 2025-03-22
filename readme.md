@@ -34,8 +34,6 @@ This project aims to analyze the evolution of language concerning crime and offe
 - Tokenization and lemmatization for improved model performance.
 - Applying word embeddings and feature engineering to enhance linguistic analysis.
 
-###Flow
-
 
 ### Model Development
 
